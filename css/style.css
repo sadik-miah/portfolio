@@ -1,0 +1,76 @@
+body {
+    background-color: #031F09;
+    color: #ffffff;
+}
+
+.nav-link {
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 400;
+
+}
+
+.nav-link:hover {
+    color: #F50D32;
+}
+
+.nav-bg-color {
+    background-color: #031F09;
+}
+
+.btn-bg {
+    background: #F50D32;
+}
+
+.menu-color {
+    background-color: rgba(245, 13, 50, 1);
+}
+
+.name-color {
+    color: #F50D32;
+}
+
+.icon-bg {
+    background-color: #F50D32;
+}
+
+hr {
+    color: red;
+}
+
+.img-bg {
+    background-color: #F50D32;
+}
+
+.curd-hover:hover {
+    border-radius: 10px;
+    border: 3px solid #2E2E30;
+    background: #163225;
+}
+
+
+.card-bg {
+    background-color: #031F09;
+}
+
+.card-btn {
+    background-color: #031F09;
+    color: white;
+}
+
+.card-btn:hover {
+    color: white;
+    background-color: #F50D32;
+}
+
+.test-card-bg {
+    background-color: #163225;
+}
+
+ul li {
+    list-style: none;
+}
+
+.footer-bg {
+    background-color: #163225;
+}
