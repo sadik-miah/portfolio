@@ -74,3 +74,21 @@ ul li {
 .footer-bg {
     background-color: #163225;
 }
+
+
+
+
+
+
+
+
+/* curd style */
+.card-img {
+    background-color: #F50D32;
+}
+
+.card-btn2:hover {
+    color: white;
+    background-color: #F50D32;
+
+}
