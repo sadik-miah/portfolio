@@ -92,3 +92,26 @@ ul li {
     background-color: #F50D32;
 
 }
+
+/* about section */
+.exp-card {
+    background-color: #163225;
+}
+
+.progress-bg {
+    background-color: #163225;
+    color: aqua;
+}
+
+.progress-color {
+    background-color: #F50D32;
+}
+
+/* services section  */
+.hr-width {
+    width: 90px;
+}
+
+.hr-width2 {
+    width: 90px;
+}
